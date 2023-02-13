@@ -9,12 +9,18 @@ Desafio Go
 
 # Docker Hub Image
 
+```
 https://hub.docker.com/repository/docker/msrodrigues/desafio-go/general
+```
 
 # Push
 
+```
 docker push msrodrigues/desafio-go:lastest
+```
 
 # Run
 
+```
 docker run -it msrodrigues/desafio-go:lastest
+```
